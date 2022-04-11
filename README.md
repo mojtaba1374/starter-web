@@ -24,3 +24,5 @@ Shariati School
 As stated above, the main  is to provide simple example for git training.
 
 ## How to contribute
+
+### CopyRight Project
