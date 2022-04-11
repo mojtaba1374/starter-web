@@ -13,6 +13,13 @@ Iran Hamedan
 ## Email Address
 mojtabaas95@gmail.com
 
+## univercity Information
+BSc: boali sina univercity
+MSc: Univercity of Tehran
+
+## HighSchool Information
+Shariati School
+
 ## purpuse
 As stated above, the main  is to provide simple example for git training.
 
