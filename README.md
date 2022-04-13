@@ -1,4 +1,7 @@
 # Naming of Teams
+mojtaba ameli bidar
+morteza
+meisam
 
 # Starter web project
 this is a simple website project for showing how to git and github toghether worked.
